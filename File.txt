@@ -1,3 +1,4 @@
 A text file
 
 Close issue 6
+Close issue 5
