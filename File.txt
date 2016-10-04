@@ -1,1 +1,3 @@
 A text file
+
+Close issue 6
