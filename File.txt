@@ -3,3 +3,4 @@ A text file
 Close issue 6
 Close issue 4
 Close issue 5
+A new commit is here
