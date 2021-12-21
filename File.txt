@@ -7,3 +7,5 @@ A new commit is here
 A second new commit is here
 
 nextLine
+
+Sync pulls requered reviews.
